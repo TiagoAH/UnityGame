@@ -1,0 +1,88 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 630M (ID=0xde9)
+    Vendor:   NVIDIA
+    VRAM:     1999 MB
+    Driver:   21.21.13.7654
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Tiago Henggeler\Desktop\New Multimedia\Build\testBuild2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Tiago Henggeler\Desktop\New Multimedia\Build\testBuild2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Tiago Henggeler\Desktop\New Multimedia\Build\testBuild2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Tiago Henggeler\Desktop\New Multimedia\Build\testBuild2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Tiago Henggeler\Desktop\New Multimedia\Build\testBuild2_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Tiago Henggeler\Desktop\New Multimedia\Build\testBuild2_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Tiago Henggeler\Desktop\New Multimedia\Build\testBuild2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Tiago Henggeler\Desktop\New Multimedia\Build\testBuild2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Tiago Henggeler\Desktop\New Multimedia\Build\testBuild2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Tiago Henggeler\Desktop\New Multimedia\Build\testBuild2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Tiago Henggeler\Desktop\New Multimedia\Build\testBuild2_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Tiago Henggeler\Desktop\New Multimedia\Build\testBuild2_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.267 seconds
+Platform assembly: C:\Users\Tiago Henggeler\Desktop\New Multimedia\Build\testBuild2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Tiago Henggeler\Desktop\New Multimedia\Build\testBuild2_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Tiago Henggeler\Desktop\New Multimedia\Build\testBuild2_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\Tiago Henggeler\Desktop\New Multimedia\Build\testBuild2_Data\Managed\Boo.Lang.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 50.627224 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 16.227379 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 752.
+Total: 5.995772 ms (FindLiveObjects: 0.047210 ms CreateObjectMapping: 0.037358 ms MarkObjects: 0.721709 ms  DeleteObjects: 5.189083 ms)
+
+Game over
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Game over
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+WENT BACK TO MENU
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.953247 ms
+
+Unloading 136 unused Assets to reduce memory usage. Loaded Objects now: 545.
+Total: 0.985268 ms (FindLiveObjects: 0.068558 ms CreateObjectMapping: 0.053779 ms MarkObjects: 0.529171 ms  DeleteObjects: 0.332117 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.649867 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 727.
+Total: 6.844745 ms (FindLiveObjects: 0.070200 ms CreateObjectMapping: 0.061168 ms MarkObjects: 0.396160 ms  DeleteObjects: 6.316805 ms)
+
+TIME REVERSED ON THE BOX
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GoalBehaviourScriot.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GoalBehaviourScriot.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GoalBehaviourScriot.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GoalBehaviourScriot.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2190 -> priority: 1 
+  Thread -> id: 1eec -> priority: 1 
